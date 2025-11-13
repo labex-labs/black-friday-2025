@@ -1,5 +1,3 @@
-![](https://cdn.jsdelivr.net/gh/labex-labs/files@master/images/bf-2025-banner.png)
-
 This **Black Friday 2025**, [LabEx](https://labex.io/learn) is offering massive discounts on hands-on learning for **Linux, DevOps, and Cybersecurity**. If you’re the kind of developer who learns best by *doing*, this one’s for you.
 
 💡 **What’s the deal?**
@@ -12,3 +10,5 @@ No installations, no setup headaches — just real environments in your browser.
 👉 Check out all the details here: [labex.io/pricing](https://labex.io/pricing)
 
 Get hands-on. Learn smarter. **Build your future with LabEx.**
+
+![](https://cdn.jsdelivr.net/gh/labex-labs/files@master/images/bf-2025-banner.png)
